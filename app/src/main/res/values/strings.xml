@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UniforNews</string>
+    <string name="title_home">Home</string>
+    <string name="title_esportes">Esportes</string>
+    <string name="title_eventos">Eventos</string>
+    <string name="title_favoritos">Favoritos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_geral">Fragment Geral</string>
+    <string name="fragment_esportes">Fragment Esportes</string>
+    <string name="fragment_eventos">Fragment Eventos</string>
+    <string name="fragment_favoritos">Fragment Favoritos</string>
+    <string name="title_activity_det_not">DetNotActivity</string>
+    <string name="favoritar">Favoritar</string>
+
+</resources>
